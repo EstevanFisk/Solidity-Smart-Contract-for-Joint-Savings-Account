@@ -1,2 +1,2 @@
 # Solidity-Smart-Contract-for-Joint-Savings-Account
-Creation of Solidity smart contract for joint savings account.  Specifically, a contract that accepts two user addresses that are then able to control a joint savings account.
+Creation of Solidity smart contract for joint savings account.  Specifically, a contract that accepts two user addresses that are then able to control a joint savings account. This contract was run using [Remix IDE](https://remix.ethereum.org/) with compiler 0.5.0, using deploy environment of JavaScript VM. In order to run the script, the code from the "joint_savings.sol" file must be pasted or uploaded to Remix IDE and deployed using JavaScript.
